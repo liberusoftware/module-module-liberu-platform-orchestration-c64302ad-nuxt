@@ -1,0 +1,17 @@
+{
+  "repository": "module-module-liberu-platform-orchestration-c64302ad-nuxt",
+  "capabilityKey": "liberusoftware/module-liberu-platform-orchestration",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-module-liberu-platform-orchestration-c64302ad-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/accounting/nextjs/liberu-platform-orchestration.md",
+  "presentationPlan": "projects/accounting/nuxt/liberu-platform-orchestration.md",
+  "identityReviewRequired": true,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting",
+    "billing",
+    "genealogy"
+  ]
+}
